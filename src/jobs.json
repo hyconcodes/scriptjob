@@ -1,0 +1,143 @@
+[
+    {
+      "id": 1,
+      "title": "Senior React Developer",
+      "type": "Full-Time",
+      "description": "We are seeking a talented Front-End Developer to join our team in Boston, MA. Strong skills in React, HTML, CSS, and JavaScript are required. Experience with state management libraries like Redux is a plus.",
+      "location": "Boston, MA",
+      "salary": "$90K - $100K",
+      "company": {
+        "name": "NewTek Solutions",
+        "description": "NewTek Solutions specializes in web development and digital solutions. We foster a collaborative and innovative environment.",
+        "contactEmail": "contact@teksolutions.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": 2,
+      "title": "Angular Frontend Engineer",
+      "type": "Full-Time",
+      "description": "Join our team as a Front-End Engineer in Miami, FL. Expertise in Angular, JavaScript, and TypeScript is essential. Work on crafting responsive and dynamic web applications.",
+      "location": "Miami, FL",
+      "salary": "$85K - $95K",
+      "company": {
+        "name": "Veneer Solutions",
+        "description": "Veneer Solutions is a creative agency pushing the boundaries of web development with Angular.",
+        "contactEmail": "contact@veneersolutions.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": 3,
+      "title": "Vue.js Frontend Developer",
+      "type": "Full-Time",
+      "description": "We are hiring a Vue.js Developer to join our Brooklyn team. Work on innovative projects using Vue 3, Pinia, and Composition API.",
+      "location": "Brooklyn, NY",
+      "salary": "$80K - $90K",
+      "company": {
+        "name": "Dolor Cloud",
+        "description": "Dolor Cloud focuses on Vue.js solutions for small to large businesses.",
+        "contactEmail": "contact@dolorcloud.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": 4,
+      "title": "React Native Developer",
+      "type": "Part-Time",
+      "description": "Join our Phoenix team to develop cross-platform mobile applications using React Native. This role offers flexible hours and remote options.",
+      "location": "Phoenix, AZ",
+      "salary": "$70K - $80K",
+      "company": {
+        "name": "Alpha Elite",
+        "description": "Alpha Elite is known for mobile-first development using React Native.",
+        "contactEmail": "contact@alphaelite.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": 5,
+      "title": "Full Stack React Developer",
+      "type": "Full-Time",
+      "description": "We're seeking a Full Stack Developer in Atlanta with React and Node.js experience. Build scalable web applications from frontend to backend.",
+      "location": "Atlanta, GA",
+      "salary": "$100K - $110K",
+      "company": {
+        "name": "Browning Technologies",
+        "description": "Browning Technologies focuses on full stack React and Node.js development.",
+        "contactEmail": "contact@browningtech.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": 6,
+      "title": "Senior Angular Developer",
+      "type": "Full-Time",
+      "description": "Join our Portland, OR team as a Senior Angular Developer. Lead frontend initiatives using Angular 14+.",
+      "location": "Portland, OR",
+      "salary": "$110K - $120K",
+      "company": {
+        "name": "Port Solutions INC",
+        "description": "Port Solutions pioneers Angular-based solutions for enterprises.",
+        "contactEmail": "contact@portsolutions.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": 7,
+      "title": "React.js Frontend Engineer",
+      "type": "Full-Time",
+      "description": "Join our remote team to develop React.js SaaS platforms. Flexible hours and competitive salary offered.",
+      "location": "Remote",
+      "salary": "$95K - $105K",
+      "company": {
+        "name": "CloudStack Innovations",
+        "description": "CloudStack specializes in React.js SaaS development.",
+        "contactEmail": "careers@cloudstack.io",
+        "contactPhone": "444-333-2222"
+      }
+    },
+    {
+      "id": 8,
+      "title": "Angular Full Stack Developer",
+      "type": "Contract",
+      "description": "Contract opportunity for an Angular and Node.js Developer in Austin, TX. Six-month project with potential extension.",
+      "location": "Austin, TX",
+      "salary": "$65/hr - $75/hr",
+      "company": {
+        "name": "Ecom Solutions",
+        "description": "Ecom Solutions focuses on Angular-based e-commerce platforms.",
+        "contactEmail": "hr@ecomsolutions.com",
+        "contactPhone": "333-222-1111"
+      }
+    },
+    {
+      "id": 9,
+      "title": "Lead Vue.js Engineer",
+      "type": "Full-Time",
+      "description": "We're hiring a Lead Vue.js Engineer to drive web development in San Francisco. Mentor junior developers and lead frontend architecture.",
+      "location": "San Francisco, CA",
+      "salary": "$125K - $135K",
+      "company": {
+        "name": "NextWave Tech",
+        "description": "NextWave Tech leads the industry in Vue.js web applications.",
+        "contactEmail": "joinus@nextwave.tech",
+        "contactPhone": "123-456-7890"
+      }
+    },
+    {
+      "id": 10,
+      "title": "React Frontend Architect",
+      "type": "Full-Time",
+      "description": "We need a React Frontend Architect to oversee large-scale projects in Los Angeles. Architect enterprise-grade applications with React 18.",
+      "location": "Los Angeles, CA",
+      "salary": "$130K - $140K",
+      "company": {
+        "name": "BuildForge",
+        "description": "BuildForge specializes in large-scale React architectures.",
+        "contactEmail": "recruit@buildforge.io",
+        "contactPhone": "111-222-3333"
+      }
+    }
+  ]
+  
