@@ -3,7 +3,7 @@ import Card from './Card'
 
 const HomeCard = () => {
     return (
-        <div className="container mt-5">
+        <div className="container mt-5 mb-5">
             <div className="row">
                 <div className="col-sm-6 mb-3 mb-sm-0">
                     <Card bg="bg-secondary-subtle border-0">

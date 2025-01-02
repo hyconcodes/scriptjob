@@ -1,7 +1,10 @@
 import React from 'react'
 import { FaReact } from 'react-icons/fa'
+import { NavLink } from 'react-router'
 
 function NavBar() {
+    const activeNavLinkClass = ({isActive}) =>
+        isActive ? 'nav-link bg-warning-subtle text-success fw-bold rounded' : 'nav-link text-black fw-bold'
     return (
         <nav className="navbar navbar-expand-sm navbar-light bg-warning">
             <div className="container">
@@ -15,14 +18,14 @@ function NavBar() {
                 <div className="collapse navbar-collapse" id="collapsibleNavId">
                     <ul className="navbar-nav ms-auto mt-2 mt-lg-0">
                         <li className="nav-item">
-                            <a className="nav-link text-white active" href="#" aria-current="page">Home
-                                <span className="visually-hidden">(current)</span></a>
+                            <NavLink className={ activeNavLinkClass } to="/" aria-current="page">Home
+                                <span className="visually-hidden"></span></NavLink>
                         </li>
                         <li className="nav-item">
-                            <a className="nav-link text-white" href="#">Jobs</a>
+                            <NavLink className={ activeNavLinkClass } to="/jobs">Jobs</NavLink>
                         </li>
                         <li className="nav-item">
-                            <a className="nav-link text-white" href="#">Add Jobs</a>
+                            <NavLink className={ activeNavLinkClass } to="add_jobs">Add Jobs</NavLink>
                         </li>
                     </ul>
                 </div>
