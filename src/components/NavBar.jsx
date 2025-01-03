@@ -25,7 +25,7 @@ function NavBar() {
                             <NavLink className={ activeNavLinkClass } to="/jobs">Jobs</NavLink>
                         </li>
                         <li className="nav-item">
-                            <NavLink className={ activeNavLinkClass } to="add_jobs">Add Jobs</NavLink>
+                            <NavLink className={ activeNavLinkClass } to="add_job">Add Jobs</NavLink>
                         </li>
                     </ul>
                 </div>
